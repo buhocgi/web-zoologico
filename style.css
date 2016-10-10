@@ -1,0 +1,113 @@
+.menu{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.menu li{
+	display: inline-block;
+	font-size: 18px;
+}
+.menu li a{
+	color: #FFF;
+	display: block;
+	padding-right: 10px;
+	padding-left: 10px;
+	font-weight: bold;
+}
+.fondo-menu{
+	background: url("img/fondo-menu.png");
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.cabecera{
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+.texto-bienvenida{
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	color: #CB7307;
+}
+.texto-parrafo{
+	color: #666666;
+	padding-bottom: 30px;
+}
+.aves{
+	background: #34641E;
+	color: #FFF;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	text-align: center;
+	font-weight: bold;
+	width: 280px;
+}
+.mamiferos{
+	background: #1C95D6;
+	color: #FFF;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	text-align: center;
+	font-weight: bold;
+	width: 280px;
+}
+.artesania{
+	background: #FD6906;
+	color: #FFF;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	text-align: center;
+	font-weight: bold;
+	width: 280px;
+}
+.separar{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.subtitulo{
+	font-size: 28px;
+	font-weight: bold;
+	color: #CB7307;
+}
+.cuadro-imagen{
+	border: 1px solid #999999;
+	padding: 10px;
+}
+.boton{
+	background: #CB7307;
+	color: #FFF;
+	padding: 8px;
+	border-radius: 5px;
+	float: right;
+}
+.fondo-footer{
+	background: url("img/fondopi.png");
+	padding-top: 150px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 30px;
+}
+.fondo-footer ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.fondo-footer ul li a{
+	color: #000;
+}
+.titulos-footer{
+	color: #CB7307;
+	font-size: 20px;
+	font-weight: bold;
+}
+.texto-derecha{
+	text-align: right;
+}
+.redes-sociales{
+	text-align: right;
+}
+.container{
+	width: 1082px;
+}
